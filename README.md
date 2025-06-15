@@ -6,8 +6,8 @@ A beginner-friendly Raspberry Pi IoT project that uses a **PIR motion sensor**, 
 
 ## 📸 Project Photos
 
-- `images/setup.jpg`: Breadboard + Pi wiring setup.
-- `images/demo.gif`: Final Project.
+- `images/setup.jpeg`: Breadboard + Pi wiring setup.
+- `images/demo.jpeg`: Final Project.
 
 ---
 
@@ -51,7 +51,7 @@ A beginner-friendly Raspberry Pi IoT project that uses a **PIR motion sensor**, 
 
 Save the following as `motion_alarm.py`:
 
-`/motion-led-buzzer.py`
+`motion-led-buzzer.py`
 
 ---
 
@@ -71,13 +71,6 @@ pip3 install -r requirements.txt
 ### 3. Run the Script
 ```bash
 python3 motion_alarm.py
-```
-
----
-
-## 🧾 requirements.txt
-```
-RPi.GPIO==0.7.1
 ```
 
 ---
