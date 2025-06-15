@@ -6,8 +6,8 @@ A beginner-friendly Raspberry Pi IoT project that uses a **PIR motion sensor**, 
 
 ## 📸 Project Photos
 
-- `images/setup.jpeg`: Breadboard + Pi wiring setup.
-- `images/demo.jpeg`: Final Project.
+![Breadboard + Pi wiring setup.](images/setup.jpeg)
+![Final Project.](images/demo.jpeg)
 
 ---
 
